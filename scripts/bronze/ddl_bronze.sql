@@ -1,5 +1,6 @@
--- creating tables for bronze layer
--- drop tables before creating tables if exist
+/* creating tables for bronze layer
+drop tables before creating tables if exist
+*/
 
 
 use DataWarehouse;
